@@ -1,6 +1,10 @@
 # Imphash-Local
-Many repos for import hashing were either out of date or not quick enough, and online solutions required payload submission. So, I wrote this local drag-and-drop imphash script. 
+Many implementations for import hashing were either:
+- out of date
+- not quick enough
+- or were online solutions which required payload submission
 
+ So, I wrote this local drag-and-drop imphash script. I'm going to re-write this in C or Rust or something to make it actually fast and not shitty - stay tuned :3
 &nbsp;
 
 ### Required Libraries
