@@ -9,6 +9,6 @@ I wrote this local drag-and-drop imphash script quickly for personal use. I'm go
 &nbsp;
 
 ### Raw Python dependencies:
-(Executable will run without this step)
+<sup>(The Executable will run without these)</sup>
 - PEFile
     - ("pip3 install pefile")
